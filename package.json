@@ -1,0 +1,25 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MunkoS/excel.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Munko <munko_s@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MunkoS/excel/issues"
+  },
+  "homepage": "https://github.com/MunkoS/excel#readme",
+  "private": true
+}
